@@ -1,0 +1,7 @@
+This is a .txt test file.
+
+Row 3
+Row 4
+Row 5
+
+Have a nice day!
